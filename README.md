@@ -1,6 +1,3 @@
-Here’s a complete and professional **`README.md`** file for your **Big Data Real-Time Threat Detection System using Apache Spark (Scala)** project:
-
----
 
 ````markdown
 # 🔒 Real-Time Threat Detection System Using Apache Spark
